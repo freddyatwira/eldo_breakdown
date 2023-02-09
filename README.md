@@ -1,6 +1,6 @@
 # eldo_breakdown
 creating a breakdown service website
-content
+content:
 home page
 about service
 contact
