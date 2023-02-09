@@ -8,6 +8,13 @@ body{
     font-weight: 700;
 }
 
+.logo-style{
+    border-radius: 50%;
+    border: 5px solid black;
+    
+}
+
+
 
 .cover{
     background-image: url("./assets/breakdown_1.jpg");
