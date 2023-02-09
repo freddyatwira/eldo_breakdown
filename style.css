@@ -1,17 +1,23 @@
 body{
-    /* background-color: rgb(128, 128, 128); */
+    background-color: rgb(128, 128, 128);
+  
+
+}
+.mytext{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Arial, Helvetica;
+    font-weight: 700;
+}
+
+.logo-style{
+    margin-top: -20px;
+    
+}
+
+.cover{
     background-image: url("./assets/breakdown_1.jpg");
     background-repeat: no-repeat;
     background-size:cover;
-
-}
-
-.mytext{
-    font-weight: 700;
-    color: aqua;
-}
-.right-side-items{
-    /* display: flex; */
-    flex-direction: column;
-    justify-content: space-between;
+    align-self: center;
+   height: 576px;
+   width: 100%;
 }
